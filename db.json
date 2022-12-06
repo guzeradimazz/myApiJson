@@ -1,0 +1,14 @@
+{
+  "languages":[
+    {
+      "type":"RU",
+      "heroTitle":"Заголовок",
+      "heroP":"Текст"
+    },
+    {
+      "type":"EN",
+      "heroTitle":"Title",
+      "heroP":"Text"
+    }
+  ]
+}
